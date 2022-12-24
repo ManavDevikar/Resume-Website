@@ -1,0 +1,102 @@
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.Title-image{
+  width:70%;
+  padding:5% 5% 5% 15%;
+  border-radius: 50%;
+}
+.title{
+  padding: 7% 0% 4%;
+}
+#Profile{
+  background-color:#00FFAB ;
+}
+/* navbar */
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+  color: #2B3467;
+}
+.navbar-brand:hover{
+  color: #495579;
+}
+.nav-item{
+  padding:0 1.5rem;
+}
+.nav-link{
+  font-family: "Montserrat-light", sans-serif;
+  font-size: 1.3rem;
+  color: #2B3467;
+}
+.nav-link:hover{
+  color: #495579;
+}
+
+.navbar-toggler{
+  background-color: #82AAE3;
+}
+h1 { font-family: 'Montserrat', sans-serif;
+font-size: 3.5rem;
+font-weight: bold;
+color:;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+color: #472183;
+}
+h5, p,{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* about*/
+#About, #Contact{
+  background-color: #BFEAF5;
+}
+.edu{
+  padding-bottom: 1%;
+}
+h2{
+  text-align: left;
+  padding-bottom: 3%;
+}
+h2:hover{
+  color: #332FD0;
+}
+/* Skills */
+#Skills{
+  background-color: #99FFCD ;
+}
+.skl{
+  width: 185px;
+  padding-top: 3%;
+  }
+.head-1{
+    padding:9% 15% 0%;
+  }
+.skl-1{
+  width: 150px;
+  padding-left: 6%;
+ }
+.head{
+  padding: 4% 15% 1%;
+}
+.line{
+  color: #FF1E1E;
+}
+/* contact */
+.cont{
+  font-family:'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+#Footer{
+  padding: 0.5% 15%;
+  text-align: center;
+  background-color: #204969;
+}
